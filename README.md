@@ -1,2 +1,2 @@
-# NewLGRadminTool
-GIT for New LG Radmin Tool
+# New LG Radmin Tool
+
