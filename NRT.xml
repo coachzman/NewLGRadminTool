@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.0.0.4</version>
+  <version>0.0.0.5</version>
   <url>https://www.dropbox.com/s/etbas2v2j8bijxw/RadminToolInstaller.msi?dl=1</url>
   <changelog>https://github.com/coachzman/NewLGRadminTool/releases</changelog>
   <mandatory mode="1">true</mandatory>
