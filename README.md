@@ -1,5 +1,5 @@
 # New LG Radmin Tool
-[Pre-Release]
+Pre-Release available now.
 
 Radmin tool for use with LGENSOL Vision Group
 
