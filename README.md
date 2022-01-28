@@ -11,5 +11,5 @@ Plans for later release:
 - [x] Add Vision end user logins
 - [ ] Allow custom phonebook layout
 - [ ] Allow users to change/save IP address changes, and/or suggest changes
-- [ ] Release Stable version
+- [x] Release Stable version
 - [x] Release Pre-Release version
