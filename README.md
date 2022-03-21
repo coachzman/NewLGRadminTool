@@ -1,8 +1,6 @@
 # New LG Radmin Tool
 Release available now.
 
-~~Pre-Release available now.~~
-
 Radmin tool for use with LGENSOL Vision Group
 
 This git is used for XML reference and download of application.  
