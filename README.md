@@ -3,21 +3,13 @@ Release available now.
 
 **To download:**
 
--Click 'Release.zip'
+-Click 'RadminToolInstaller.msi'
 
-![image](https://user-images.githubusercontent.com/95830093/161325987-6c382f46-1431-4e7e-b33c-eee188f29b6a.png)
+![image](https://user-images.githubusercontent.com/95830093/161757098-3b07e764-1156-4b4c-b8fb-c6237ea0a15b.png)
 
 -Click 'Download'
 
 ![image](https://user-images.githubusercontent.com/95830093/161326241-6a7929dd-6e17-472e-bc64-f82eb30fb620.png)
-
--Extract 'Release.zip'
-
-![image](https://user-images.githubusercontent.com/95830093/161326395-b9e43679-5671-4e65-8049-278433a00069.png)
-
--Run 'setup.exe' in the unzipped 'Release' folder
-
-![image](https://user-images.githubusercontent.com/95830093/161326622-8e09b4c0-0665-456e-a0c3-a787fa269f00.png)
 
 -IT department currently flags this software.  Click 'More Info', then 'Run Anyway'
 
@@ -30,16 +22,6 @@ Release available now.
 ![image](https://user-images.githubusercontent.com/95830093/161327423-e40ecf23-41c9-4286-b7b5-f5e32256ee8f.png)
 
 ![image](https://user-images.githubusercontent.com/95830093/161327490-385cccb0-ff97-4aee-8ee1-d9018ffd9e9e.png)
-
--This software needs .NET Desktop Runtime 5 to be used.  Select 'Install'
-
-![image](https://user-images.githubusercontent.com/95830093/161327614-244fe894-184d-4857-89be-a767be559161.png)
-
--Click the shield, then 'Yes'
-
-![image](https://user-images.githubusercontent.com/95830093/161327774-0ba49518-113a-449a-a981-77a05d061f7e.png)
-
-![image](https://user-images.githubusercontent.com/95830093/161327929-6c072130-d49f-4c96-9549-aa94f30659b9.png)
 
 -Go through the installation by pressing 'Next' and each dialogue
 
