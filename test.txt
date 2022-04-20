@@ -4,3 +4,4 @@ test2
 test line
 new line?
 testing class
+testing class again
