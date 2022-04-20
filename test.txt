@@ -1,4 +1,4 @@
-System.Collections.ObjectModel.ReadOnlyCollection`1[Octokit.RepositoryContent]
+Octokit.RepositoryContent
 "test"
 hello
 
