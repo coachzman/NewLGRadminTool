@@ -1,5 +1,7 @@
 # New LG Radmin Tool
-Release available now.
+v4.0.0.0
+
+**This is the FINAL release.  This repository will be shut down 7-29-2022.  This final release will be available only to LGENSOL members onsite.**
 
 **To download:**
 
